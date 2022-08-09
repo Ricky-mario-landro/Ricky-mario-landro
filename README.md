@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Web Developer
 - 🌱 I’m currently learning such as Web Technology
 - 💞️ I’m looking to collaborate with team to make project
-- 📫 Reach me on instragram
+- 📫 Reach me on instragram https://www.instagram.com/rio_landro/
 
 - See My portofolio :
 1. https://bit.ly/RickyMario-Landro
