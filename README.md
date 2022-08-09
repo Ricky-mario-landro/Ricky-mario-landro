@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Ricky-mario-landro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, Welcome All. I’m Ricky Mario Landro FRONT END DEVELOPER AND UI/UX DESIGNER I’m from Indonesia, i'am a child from a simple family who likes to learn things about technology, such as Web Technology, UI/UX design and Networking
+- 👀 I’m interested in Front End Web Developer
+- 🌱 I’m currently learning such as Web Technology
+- 💞️ I’m looking to collaborate with team to make project
+- 📫 Reach me on instragram
 
-<!---
-Ricky-mario-landro/Ricky-mario-landro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- See My portofolio :
+1. https://bit.ly/RickyMario-Landro
+2. https://resume.showwcase.com/ricky-mario-landro.pdf
