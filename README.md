@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricky Mario Landro</h1>
-![github](https://gist.github.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif)
+
 <h3 align="center">FRONT END DEVELOPER AND UI/UX DESIGNER I’m from Indonesia, i'am a child from a simple family who likes to learn things about technology, such as Web Technology, UI/UX design and Networking</h3>
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/RickyMario-Landro](https://bit.ly/RickyMario-Landro)
