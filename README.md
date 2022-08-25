@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricky Mario Landro</h1>
 <h3 align="center">FRONT END DEVELOPER AND UI/UX DESIGNER I’m from Indonesia, i'am a child from a simple family who likes to learn things about technology, such as Web Technology, UI/UX design and Networking</h3>
-![Uzoma Medium Gif](https://user-images.githubusercontent.com/33858127/88416966-1e53ca00-cdaf-11ea-82f8-f8b90949ac73.gif)
+
 - 👨‍💻 All of my projects are available at [https://bit.ly/RickyMario-Landro](https://bit.ly/RickyMario-Landro)
 
 - 📝 I regularly write articles on [https://infoit05.blogspot.com/](https://infoit05.blogspot.com/)
