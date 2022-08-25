@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ricky Mario Landro</h1>
+
+![7SvE](https://user-images.githubusercontent.com/62229863/186614716-4aa4d993-81ad-4a11-a94e-09ca4e089f0c.gif)
+
+
 <h3 align="center">FRONT END DEVELOPER AND UI/UX DESIGNER I’m from Indonesia, i'am a child from a simple family who likes to learn things about technology, such as Web Technology, UI/UX design and Networking</h3>
 
 # 💫 About Me:
