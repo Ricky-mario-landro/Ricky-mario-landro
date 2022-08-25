@@ -1,5 +1,8 @@
+<h1 align="center">Hi 👋, I'm Ricky Mario Landro</h1>
+<h3 align="center">FRONT END DEVELOPER AND UI/UX DESIGNER I’m from Indonesia, i'am a child from a simple family who likes to learn things about technology, such as Web Technology, UI/UX design and Networking</h3>
+
 # 💫 About Me:
-Networking<br>👨‍💻 All of my projects are available at https://bit.ly/RickyMario-Landro<br><br>📝 I regularly write articles on https://infoit05.blogspot.com/<br><br>📫 Reach me on Email lumbanambarita@gmail.com<br><br>📄 Know about my experiences https://ricky-mario-landro.showwcase.com/<br><br>⚡ Fun fact I'am magician<br><br>
+<br>👨‍💻 All of my projects are available at https://bit.ly/RickyMario-Landro<br><br>📝 I regularly write articles on https://infoit05.blogspot.com/<br><br>📫 Reach me on Email lumbanambarita@gmail.com<br><br>📄 Know about my experiences https://ricky-mario-landro.showwcase.com/<br><br>⚡ Fun fact I'am magician<br><br>
 
 
 ## 🌐 Socials:
